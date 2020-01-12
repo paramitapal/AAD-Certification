@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerviewBasic</string>
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="add">Add Post</string>
+    <string name="delete">Delete</string>
+
+</resources>
