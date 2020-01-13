@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/main_fragment">
+    <fragment
+        android:id="@+id/secondDestination"
+        android:name="paraman.com.navigation.SecondDestination"
+        android:label="fragment_second_destination"
+        tools:layout="@layout/fragment_second_destination" >
+        <argument
+            android:name="message"
+            app:argType="string"
+            android:defaultValue="No message" />
+    </fragment>
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="paraman.com.navigation.MainFragment"
+        android:label="fragment_main_fragment"
+        tools:layout="@layout/fragment_main_fragment" >
+        <action
+            android:id="@+id/action_main_fragment_to_secondDestination2"
+            app:destination="@id/secondDestination" />
+    </fragment>
+</navigation>
