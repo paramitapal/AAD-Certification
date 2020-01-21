@@ -117,20 +117,20 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
         return mDataSet.size();
     }
 
-    public void setData(List<Post> newData) {
-        if (mDataSet != null) {
-            Log.d(TAG,"Data in adapter obseving "+mDataSet.toString());
-            PostDiffCallback postDiffCallback = new PostDiffCallback(mDataSet, newData);
-            DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(postDiffCallback);
+        public void setData(List<Post> newData) {
+            if (mDataSet != null) {
+                Log.d(TAG,"Data in adapter obseving "+mDataSet.toString());
+                PostDiffCallback postDiffCallback = new PostDiffCallback(mDataSet, newData);
+                DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(postDiffCallback);
 
-            mDataSet.clear();
-            mDataSet.addAll(newData);
-            diffResult.dispatchUpdatesTo(this);
-        } else {
-            // first initialization
-            mDataSet = newData;
+                mDataSet.clear();
+                mDataSet.addAll(newData);
+                diffResult.dispatchUpdatesTo(this);
+            } else {
+                // first initialization
+                mDataSet = newData;
+            }
         }
-    }
 
     class PostDiffCallback extends DiffUtil.Callback {
 

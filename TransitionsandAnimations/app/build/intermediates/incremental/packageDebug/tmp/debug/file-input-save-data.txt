@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 21 12:19:05 EST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

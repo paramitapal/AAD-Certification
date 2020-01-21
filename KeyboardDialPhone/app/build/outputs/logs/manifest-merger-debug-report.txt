@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d60011cf04cea3baf2fc0e9a91e1fbdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eb0fd85d752c0f6d7b988fc9b4b7188\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee3539bd6c369c3faf7e370aae756fbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e7ab5eda094d86b77168a571103674e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9e99c4a12ce2fa00e3863e3e9bddd7b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d0c2b6a603fb0150a9ab99d997340d46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4bf1f8db51693cc634d3b02de7c3f00e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\88f1e3a126b745bb7b6c67db4dee7101\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\da865963ad1edd0db15f0fc362945fec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e230be71309880d7692d94d46c35fecc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\735803afaa7e862f71213a28b9e9991f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+	package
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:17:5-52
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:19:5-32:19
+	android:supportsRtl
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.keyboarddialphone.MainActivity
+ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:25:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d60011cf04cea3baf2fc0e9a91e1fbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d60011cf04cea3baf2fc0e9a91e1fbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eb0fd85d752c0f6d7b988fc9b4b7188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eb0fd85d752c0f6d7b988fc9b4b7188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee3539bd6c369c3faf7e370aae756fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee3539bd6c369c3faf7e370aae756fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e7ab5eda094d86b77168a571103674e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e7ab5eda094d86b77168a571103674e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9e99c4a12ce2fa00e3863e3e9bddd7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9e99c4a12ce2fa00e3863e3e9bddd7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d0c2b6a603fb0150a9ab99d997340d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d0c2b6a603fb0150a9ab99d997340d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4bf1f8db51693cc634d3b02de7c3f00e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4bf1f8db51693cc634d3b02de7c3f00e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\88f1e3a126b745bb7b6c67db4dee7101\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\88f1e3a126b745bb7b6c67db4dee7101\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\da865963ad1edd0db15f0fc362945fec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\da865963ad1edd0db15f0fc362945fec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e230be71309880d7692d94d46c35fecc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e230be71309880d7692d94d46c35fecc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\735803afaa7e862f71213a28b9e9991f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\735803afaa7e862f71213a28b9e9991f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\KeyboardDialPhone\app\src\main\AndroidManifest.xml

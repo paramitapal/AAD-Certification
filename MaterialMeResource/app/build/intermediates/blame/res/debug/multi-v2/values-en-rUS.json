@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\MaterialMeResource\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\MaterialMeResource\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "43,28,14,3,5,6,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1689,1079,678,59,163,214,285,110",
+                        "endLines": "56,40,26,3,5,6,12,4",
+                        "endColumns": "12,19,19,49,49,69,26,51",
+                        "endOffsets": "2223,1679,1071,104,208,279,670,157"
+                    },
+                    "to": {
+                        "startLines": "2,16,29,42,43,44,45,51",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,581,1174,1560,1610,1660,1730,2115",
+                        "endLines": "15,28,41,42,43,44,50,51",
+                        "endColumns": "12,19,19,49,49,69,26,51",
+                        "endOffsets": "576,1169,1555,1605,1655,1725,2110,2162"
+                    }
+                }
+            ]
+        }
+    ]
+}
