@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAsyncTask</string>
+    <string name="napping">Taking nap </string>
+
+</resources>

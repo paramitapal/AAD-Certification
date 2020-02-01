@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="notify_me">Notify me</string>
+    <string name="str_message_snippet_1">Here is the first one</string>
+    <string name="str_message_snippet_2">Here is the second one</string>
+    <string name="str_message_snippet_3">Yay last one</string>
+
+</resources>
