@@ -1,4 +1,4 @@
-#Tue Jan 21 17:14:02 EST 2020
+#Sun Feb 02 14:48:34 EST 2020
 base.0=C\:\\Paramita\\certification\\AAD-Certification\\AdaptiveLayoutHomeWork\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

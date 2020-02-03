@@ -1,4 +1,4 @@
-#Thu Jan 23 14:22:21 EST 2020
-base.0=C\:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\SimpleCalcTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sun Feb 02 20:34:47 EST 2020
+base.0=C\:\\Paramita\\certification\\AAD-Certification\\SimpleCalcTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

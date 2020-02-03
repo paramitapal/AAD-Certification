@@ -32,9 +32,9 @@ public class SimpleAsyncTask extends AsyncTask<Void,Integer,String> {
             int progressChunks = s/100;   //dividing sleep time into chunks
             int loopLimit = s/progressChunks;
 
-            for (int i = 0; i < loopLimit; i++) {
+            for (int i = 0; i < progressChunks; i++) {
                 publishProgress(i);
-                Thread.sleep(progressChunks);
+                Thread.sleep(loopLimit);
             }
             }
 
@@ -58,6 +58,7 @@ public class SimpleAsyncTask extends AsyncTask<Void,Integer,String> {
     @Override
     protected void onProgressUpdate(Integer... values) {
         mProgressBar.get().setVisibility(View.VISIBLE);
+        Log.d("TAG","Value of progress bar "+values[0]);
         mTextView.get().setText( "\nCompleted...." + values[0] + "%");
         mProgressBar.get().setProgress(values[0]);
     }

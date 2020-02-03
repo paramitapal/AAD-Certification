@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\TransitionsandAnimations\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "18,19,20",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "672,730,786",
-                        "endColumns": "57,55,41",
-                        "endOffsets": "725,781,823"
-                    },
-                    "to": {
-                        "startLines": "530,531,587",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "45569,45627,49353",
-                        "endColumns": "57,55,41",
-                        "endOffsets": "45622,45678,49390"
-                    }
-                },
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d60011cf04cea3baf2fc0e9a91e1fbdd\\res\\values\\values.xml",
                     "from": {
@@ -57,20 +40,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\TransitionsandAnimations\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "22,19,17,18,23,21,20",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "861,736,638,685,900,823,782",
-                        "endColumns": "38,45,46,50,39,37,40",
-                        "endOffsets": "895,777,680,731,935,856,818"
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "599",
+                        "endColumns": "63",
+                        "endOffsets": "658"
                     },
                     "to": {
-                        "startLines": "21,30,31,32,49,75,88",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "1422,2102,2148,2195,3358,5014,5870",
-                        "endColumns": "38,45,46,50,39,37,40",
-                        "endOffsets": "1456,2143,2190,2241,3393,5047,5906"
+                        "startLines": "684",
+                        "startColumns": "4",
+                        "startOffsets": "55273",
+                        "endColumns": "63",
+                        "endOffsets": "55332"
                     }
                 },
                 {
@@ -93,20 +76,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\TransitionsandAnimations\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "16",
+                        "startLines": "18",
                         "startColumns": "4",
-                        "startOffsets": "599",
-                        "endColumns": "63",
-                        "endOffsets": "658"
+                        "startOffsets": "637",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1016"
                     },
                     "to": {
-                        "startLines": "684",
+                        "startLines": "704",
                         "startColumns": "4",
-                        "startOffsets": "55273",
-                        "endColumns": "63",
-                        "endOffsets": "55332"
+                        "startOffsets": "57358",
+                        "endLines": "710",
+                        "endColumns": "12",
+                        "endOffsets": "57737"
                     }
                 },
                 {
@@ -129,22 +114,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\TransitionsandAnimations\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "637",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "1016"
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "672,730,786",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "725,781,823"
                     },
                     "to": {
-                        "startLines": "704",
-                        "startColumns": "4",
-                        "startOffsets": "57358",
-                        "endLines": "710",
-                        "endColumns": "12",
-                        "endOffsets": "57737"
+                        "startLines": "530,531,587",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "45569,45627,49353",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "45622,45678,49390"
                     }
                 },
                 {
@@ -198,6 +181,23 @@
                         "startOffsets": "48579,48638,48686,49395,49470,49546,51476",
                         "endColumns": "58,47,55,74,75,71,65",
                         "endOffsets": "48633,48681,48737,49465,49541,49613,51537"
+                    }
+                },
+                {
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\TransitionsandAnimations\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "22,19,17,18,23,21,20",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "861,736,638,685,900,823,782",
+                        "endColumns": "38,45,46,50,39,37,40",
+                        "endOffsets": "895,777,680,731,935,856,818"
+                    },
+                    "to": {
+                        "startLines": "21,30,31,32,49,75,88",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1422,2102,2148,2195,3358,5014,5870",
+                        "endColumns": "38,45,46,50,39,37,40",
+                        "endOffsets": "1456,2143,2190,2241,3393,5047,5906"
                     }
                 }
             ]

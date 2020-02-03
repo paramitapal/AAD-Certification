@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\SimpleCalcTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\SimpleCalcTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7319d3c35a2d2c42d56da035b9b53cbe\\res\\values-km\\values-km.xml",

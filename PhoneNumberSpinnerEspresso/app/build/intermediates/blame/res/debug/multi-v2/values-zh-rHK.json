@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-2\\files-2.1\\3c115bd9f6556a7430ab54a2645aa55d\\appcompat-v7-26.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",

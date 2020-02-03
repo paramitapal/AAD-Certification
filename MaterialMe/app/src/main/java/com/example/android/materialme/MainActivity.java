@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         mSportsData = new ArrayList<>();
 
         // Initialize the adapter and set it to the RecyclerView.
-        mAdapter = new SportsAdapter(this, mSportsData);
+            mAdapter = new SportsAdapter(this, mSportsData);
         mRecyclerView.setAdapter(mAdapter);
 
         if (savedInstanceState == null) {

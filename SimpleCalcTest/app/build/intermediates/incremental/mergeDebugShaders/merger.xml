@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Paramita\certification\AAD-Certification\SimpleCalcTest\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Paramita\certification\AAD-Certification\SimpleCalcTest\app\src\debug\shaders"/></dataSet></merger>

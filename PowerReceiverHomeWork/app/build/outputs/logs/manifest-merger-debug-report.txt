@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d60011cf04cea3baf2fc0e9a91e1fbdd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\be8d6c13b831a1e3f211eb634eb6d69e\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eb0fd85d752c0f6d7b988fc9b4b7188\AndroidManifest.xml:17:1-22:12
@@ -16,57 +16,57 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.g
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\da865963ad1edd0db15f0fc362945fec\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e230be71309880d7692d94d46c35fecc\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\735803afaa7e862f71213a28b9e9991f\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
 	package
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:17:5-53
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:17:5-53
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:11-69
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:16:11-69
 application
-ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:19:5-33:19
+ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:19:5-33:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\be8d6c13b831a1e3f211eb634eb6d69e\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\be8d6c13b831a1e3f211eb634eb6d69e\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:22:9-41
 	android:roundIcon
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:23:9-54
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:23:9-54
 	android:icon
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:25:9-40
 activity#com.android.fundamentals.powerreceiver.MainActivity
-ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:26:9-32:20
+ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:26:9-32:20
 	android:name
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:26:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d60011cf04cea3baf2fc0e9a91e1fbdd\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d60011cf04cea3baf2fc0e9a91e1fbdd\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\be8d6c13b831a1e3f211eb634eb6d69e\AndroidManifest.xml:5:5-7:41
@@ -91,13 +91,13 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e230be71309880d7692d94d46c35fecc\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\735803afaa7e862f71213a28b9e9991f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\735803afaa7e862f71213a28b9e9991f\AndroidManifest.xml:20:5-44
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		ADDED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Paramita\certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\PowerReceiverHomeWork\app\src\main\AndroidManifest.xml

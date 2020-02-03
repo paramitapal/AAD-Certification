@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\KeyboardDialPhone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d60011cf04cea3baf2fc0e9a91e1fbdd\\res\\values-en-rXC\\values-en-rXC.xml",

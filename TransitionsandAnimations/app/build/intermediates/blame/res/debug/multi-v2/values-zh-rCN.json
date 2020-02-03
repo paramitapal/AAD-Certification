@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TransitionsandAnimations\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\TransitionsandAnimations\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\4bf1f8db51693cc634d3b02de7c3f00e\\res\\values-zh-rCN\\values-zh-rCN.xml",

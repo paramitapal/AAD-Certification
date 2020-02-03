@@ -1,8 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\PowerReceiverHomeWork\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\PowerReceiverHomeWork\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\PowerReceiverHomeWork\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,20,18,19,23,22,21,24",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "633,812,684,745,1013,961,889,1067",
+                        "endColumns": "50,76,60,66,53,51,71,64",
+                        "endOffsets": "679,884,740,807,1062,1008,956,1127"
+                    },
+                    "to": {
+                        "startLines": "622,623,624,625,626,627,629,631",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "53065,53116,53193,53254,53321,53375,53480,53623",
+                        "endColumns": "50,76,60,66,53,51,71,64",
+                        "endOffsets": "53111,53188,53249,53316,53370,53422,53547,53683"
+                    }
+                },
+                {
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\PowerReceiverHomeWork\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "671",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "985"
+                    },
+                    "to": {
+                        "startLines": "637",
+                        "startColumns": "4",
+                        "startOffsets": "54130",
+                        "endLines": "642",
+                        "endColumns": "12",
+                        "endOffsets": "54444"
+                    }
+                },
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d60011cf04cea3baf2fc0e9a91e1fbdd\\res\\values\\values.xml",
                     "from": {
@@ -23,43 +59,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\PowerReceiverHomeWork\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "671",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "985"
-                    },
-                    "to": {
-                        "startLines": "637",
-                        "startColumns": "4",
-                        "startOffsets": "54130",
-                        "endLines": "642",
-                        "endColumns": "12",
-                        "endOffsets": "54444"
-                    }
-                },
-                {
-                    "source": "C:\\Paramita\\certification\\PowerReceiverHomeWork\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "17,20,18,19,23,22,21,24",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "633,812,684,745,1013,961,889,1067",
-                        "endColumns": "50,76,60,66,53,51,71,64",
-                        "endOffsets": "679,884,740,807,1062,1008,956,1127"
-                    },
-                    "to": {
-                        "startLines": "622,623,624,625,626,627,629,631",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "53065,53116,53193,53254,53321,53375,53480,53623",
-                        "endColumns": "50,76,60,66,53,51,71,64",
-                        "endOffsets": "53111,53188,53249,53316,53370,53422,53547,53683"
-                    }
-                },
-                {
-                    "source": "C:\\Paramita\\certification\\PowerReceiverHomeWork\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\PowerReceiverHomeWork\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "20,18,19",
                         "startColumns": "4,4,4",

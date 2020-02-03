@@ -1,0 +1,4 @@
+#Sun Feb 02 12:06:31 EST 2020
+base.0=C\:\\Paramita\\certification\\AAD-Certification\\NavDrawerExperiment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab58ce856dcfa333287168a348a3c799\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\35869a467f10eae77032a35e995576ea\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6c43840b0fa5be16cf86dd6eb05a9829\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fd4edfd702b0288249c5860f526bcb3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b717322c3211c117f8d5a5ecdb260788\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b4184b490ba1c077fe735c19a780916b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\797dc3d8508ce3d526d0e1003a273f66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ecf184840cb5d05b1144962ce71663de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b52432f65f6fd10a2424d44a25a26bf1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6163a2da91ad5ecf3b18a7bd363b0d04\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2ddedca0240a415a024428de7579b081\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4ffe1ff705f2ef76d77613f29560a0cf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\35869a467f10eae77032a35e995576ea\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\35869a467f10eae77032a35e995576ea\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab58ce856dcfa333287168a348a3c799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab58ce856dcfa333287168a348a3c799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\35869a467f10eae77032a35e995576ea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\35869a467f10eae77032a35e995576ea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6c43840b0fa5be16cf86dd6eb05a9829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6c43840b0fa5be16cf86dd6eb05a9829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fd4edfd702b0288249c5860f526bcb3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fd4edfd702b0288249c5860f526bcb3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b717322c3211c117f8d5a5ecdb260788\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b717322c3211c117f8d5a5ecdb260788\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b4184b490ba1c077fe735c19a780916b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b4184b490ba1c077fe735c19a780916b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\797dc3d8508ce3d526d0e1003a273f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\797dc3d8508ce3d526d0e1003a273f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ecf184840cb5d05b1144962ce71663de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ecf184840cb5d05b1144962ce71663de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b52432f65f6fd10a2424d44a25a26bf1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b52432f65f6fd10a2424d44a25a26bf1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6163a2da91ad5ecf3b18a7bd363b0d04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6163a2da91ad5ecf3b18a7bd363b0d04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2ddedca0240a415a024428de7579b081\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2ddedca0240a415a024428de7579b081\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4ffe1ff705f2ef76d77613f29560a0cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ParamitaPal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4ffe1ff705f2ef76d77613f29560a0cf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Paramita\certification\AAD-Certification\HelloSharedPrefs\app\src\main\AndroidManifest.xml

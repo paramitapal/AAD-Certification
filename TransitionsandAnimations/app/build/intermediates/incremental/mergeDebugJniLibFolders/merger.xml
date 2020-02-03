@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\TransitionsandAnimations\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\TransitionsandAnimations\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Paramita\certification\AAD-Certification\TransitionsandAnimations\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Paramita\certification\AAD-Certification\TransitionsandAnimations\app\src\debug\jniLibs"/></dataSet></merger>

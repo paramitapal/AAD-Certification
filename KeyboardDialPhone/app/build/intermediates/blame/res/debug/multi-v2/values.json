@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Paramita\\certification\\AAD-Certification\\KeyboardDialPhone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "18,16,17",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "715,617,664",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "756,659,710"
-                    },
-                    "to": {
-                        "startLines": "29,30,31",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "2018,2064,2111",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "2059,2106,2157"
-                    }
-                },
                 {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d60011cf04cea3baf2fc0e9a91e1fbdd\\res\\values\\values.xml",
                     "from": {
@@ -40,26 +23,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\KeyboardDialPhone\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "616",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "886"
+                        "startLines": "15,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "578,635",
+                        "endColumns": "56,60",
+                        "endOffsets": "630,691"
                     },
                     "to": {
-                        "startLines": "505",
-                        "startColumns": "4",
-                        "startOffsets": "42316",
-                        "endLines": "509",
-                        "endColumns": "12",
-                        "endOffsets": "42586"
+                        "startLines": "496,497",
+                        "startColumns": "4,4",
+                        "startOffsets": "41632,41689",
+                        "endColumns": "56,60",
+                        "endOffsets": "41684,41745"
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\KeyboardDialPhone\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "16,17",
                         "startColumns": "4,4",
@@ -95,6 +76,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\KeyboardDialPhone\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "616",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "886"
+                    },
+                    "to": {
+                        "startLines": "505",
+                        "startColumns": "4",
+                        "startOffsets": "42316",
+                        "endLines": "509",
+                        "endColumns": "12",
+                        "endOffsets": "42586"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ParamitaPal\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\4bf1f8db51693cc634d3b02de7c3f00e\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,54,55,59,60,61",
@@ -114,20 +114,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Paramita\\certification\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Paramita\\certification\\AAD-Certification\\KeyboardDialPhone\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "15,16",
-                        "startColumns": "4,4",
-                        "startOffsets": "578,635",
-                        "endColumns": "56,60",
-                        "endOffsets": "630,691"
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "715,617,664",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "756,659,710"
                     },
                     "to": {
-                        "startLines": "496,497",
-                        "startColumns": "4,4",
-                        "startOffsets": "41632,41689",
-                        "endColumns": "56,60",
-                        "endOffsets": "41684,41745"
+                        "startLines": "29,30,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2018,2064,2111",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "2059,2106,2157"
                     }
                 }
             ]

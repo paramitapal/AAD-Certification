@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.TextView;
 
 public class ChildActivity extends AppCompatActivity {
@@ -17,5 +18,7 @@ public class ChildActivity extends AppCompatActivity {
         String text = intent.getStringExtra("HEADING");
         TextView textView = findViewById(R.id.textView2);
         textView.setText(text);
+        Log.d("TAG","The desc received "+text);
+
     }
 }

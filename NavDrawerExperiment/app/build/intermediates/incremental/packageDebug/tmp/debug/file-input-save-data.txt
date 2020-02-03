@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Feb 02 11:30:22 EST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Paramita\\certification\\AAD-Certification\\NavDrawerExperiment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

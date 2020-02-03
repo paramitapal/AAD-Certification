@@ -21,38 +21,38 @@
 21
 22    <uses-sdk
 23        android:minSdkVersion="15"
-23-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml
+23-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="26" />
-24-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml
+24-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml
 25
 26    <application
-26-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:21:5-35:19
+26-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:21:5-35:19
 27        android:allowBackup="true"
-27-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:22:9-35
+27-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:22:9-35
 28        android:debuggable="true"
 29        android:icon="@mipmap/ic_launcher"
-29-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:23:9-43
+29-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:23:9-43
 30        android:label="@string/app_name"
-30-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:24:9-41
+30-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:24:9-41
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:25:9-54
+31-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:25:9-54
 32        android:supportsRtl="true"
-32-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:26:9-35
+32-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:26:9-35
 33        android:testOnly="true"
 34        android:theme="@style/AppTheme" >
-34-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:27:9-40
+34-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:27:9-40
 35        <activity android:name="com.example.android.phonenumberspinner.MainActivity" >
-35-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:28:9-34:20
-35-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:28:19-47
+35-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:28:9-34:20
+35-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:28:19-47
 36            <intent-filter>
-36-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:29:13-33:29
+36-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:29:13-33:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:30:17-69
-37-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:30:25-66
+37-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:30:17-69
+37-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:30:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:32:17-77
-39-->C:\Paramita\certification\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:32:27-74
+39-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:32:17-77
+39-->C:\Paramita\certification\AAD-Certification\PhoneNumberSpinnerEspresso\app\src\main\AndroidManifest.xml:32:27-74
 40            </intent-filter>
 41        </activity>
 42

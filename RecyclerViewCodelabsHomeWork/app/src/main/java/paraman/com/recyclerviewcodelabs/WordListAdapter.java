@@ -85,6 +85,8 @@ public class WordListAdapter extends
 //                    mAdapter.notifyDataSetChanged();
             Intent intent = new Intent(mContext,ChildActivity.class);
             intent.putExtra("HEADING",mWordHeadingList.get(mPosition));
+            Log.d("TAG","The desc passed "+mWordHeadingList.get(mPosition));
+
             mContext.startActivity(intent);
         }
     }
